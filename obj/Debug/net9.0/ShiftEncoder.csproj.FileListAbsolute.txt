@@ -1,0 +1,15 @@
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\bin\Debug\net9.0\ShiftEncoder.exe
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\bin\Debug\net9.0\ShiftEncoder.deps.json
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\bin\Debug\net9.0\ShiftEncoder.runtimeconfig.json
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\bin\Debug\net9.0\ShiftEncoder.dll
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\bin\Debug\net9.0\ShiftEncoder.pdb
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ShiftEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ShiftEncoder.AssemblyInfoInputs.cache
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ShiftEncoder.AssemblyInfo.cs
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ShiftEncoder.csproj.CoreCompileInputs.cache
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ShiftEncoder.sourcelink.json
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ShiftEncoder.dll
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\refint\ShiftEncoder.dll
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ShiftEncoder.pdb
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ShiftEncoder.genruntimeconfig.cache
+C:\Users\keaton.rosquist\cs1400\ShiftEncoder\obj\Debug\net9.0\ref\ShiftEncoder.dll

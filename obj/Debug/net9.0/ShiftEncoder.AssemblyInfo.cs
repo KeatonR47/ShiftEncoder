@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShiftEncoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa3057a1220a5dd4dc8cfc0b7988d2475d939bc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShiftEncoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShiftEncoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
