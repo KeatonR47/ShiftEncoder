@@ -64,21 +64,8 @@ static char ShiftedCharacter(char originalCharacter, int ShiftVal = 1)
         index -=26;
     }
     return AsChar('a'+ index);
-    // if (originalCharacter == 'z')
-    // {
-    //     return AsChar((originalCharacter) == 'z' || originalCharacter == 'Z' ? (originalCharacter - 25) : (originalCharacter + ShiftVal));
-    // }
-    // else
-    // {
-    //     return AsChar((originalCharacter) == 'A' || originalCharacter == 'A' ? (originalCharacter + 25) : (originalCharacter + ShiftVal));
-    // }
+    
 }
 
 
 
-// Console.Write("Please Enter a character (I will display the shifted character): ");
-// char input = ShiftedCharacter(Console.ReadKey(true).KeyChar);
-
-
-
-// Console.WriteLine(ShiftVal);
